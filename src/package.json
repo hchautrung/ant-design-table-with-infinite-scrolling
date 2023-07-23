@@ -1,0 +1,32 @@
+{
+  "title": "Ajax - antd@4.13.0",
+  "scripts": {
+    "test": "react-scripts test --env=jsdom",
+    "start": "react-scripts start",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "typescript": "^4.0.5"
+  },
+  "dependencies": {
+    "@ant-design/icons": "5.1.4",
+    "antd": "5.7.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "reqwest": "latest",
+    "uuid": "9.0.0",
+    "virtualizedtableforantd4": "1.3.1"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "keywords": [],
+  "name": "ant-design-table-with-infinite-scrolling",
+  "description": ""
+}
